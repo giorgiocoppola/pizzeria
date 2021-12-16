@@ -1,0 +1,11 @@
+ .App-section {
+    
+     display:flex;
+ }
+
+ h1 {
+     text-align:center;
+     color:red;
+     font-size:50px;
+     font-family: 'Times New Roman';
+ }
